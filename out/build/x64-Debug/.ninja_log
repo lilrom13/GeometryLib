@@ -1,0 +1,6 @@
+# ninja log v5
+1	379	6466859154613243	CMakeFiles/Geometry.dir/Geometry.cpp.obj	96c8bb7f13756f8b
+4	375	6466859154583216	CMakeFiles/GeometryLib.dir/Geometry.cpp.obj	816f9605ed9f0e45
+376	437	6466859155152291	GeometryLib.lib	7082c3199d8a851b
+1	362	6466861188987991	CMakeFiles/Geometrylib.dir/Geometry.cpp.obj	a9ca8c4d3efe3fe9
+362	408	6466861189427620	Geometrylib.lib	816ee4ce7d0a12c5
